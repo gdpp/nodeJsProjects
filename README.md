@@ -1,6 +1,6 @@
 # NODE.JS PROJECTS
 
-![nodejs image](https://philna.sh/assets/posts/node-1305aa9ecfe75c279ce6772534e04dd5999ddd372dcf28ef41c2a9a84b5acdb1.png)
+![nodejs image](https://www.diplomadosonline.com/wp-content/uploads/2022/07/nodejs.png)
 
 This repository contains the combinations of [Complete NodeJS Developer in 2023 (GraphQL, MongoDB, + more)](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/) and [Node: From Zero to Expert](https://www.udemy.com/course/node-de-cero-a-experto/) projects. Also contains a bunch of small projects that i made to practice the topics of NodeJs.
 
@@ -54,9 +54,8 @@ Node.js is an open-source, cross-platform JavaScript runtime environment.
 **2. Modules.**
 
 -   Creating Custom Modules.
--   [global] keyword.
+-   `global` keyword.
 -   Common Formats
-
     -   Common JS.
     -   ESM.
 
@@ -68,7 +67,6 @@ Node.js is an open-source, cross-platform JavaScript runtime environment.
 -   Running Scripts.
 -   npm Workspaces.
 -   Creating packages
-
     -   Private packages.
     -   Public packages.
 
@@ -81,12 +79,10 @@ Node.js is an open-source, cross-platform JavaScript runtime environment.
 
 -   Uncaught Exceptions.
 -   Types of Errors.
-
     -   Javascript Errors.
     -   System Errors.
     -   User Specified Errors.
     -   Assertion Erros.
-
 -   Call Stack & Stack Trace.
 -   Using Debugger.
 -   Handling Async Errors.
@@ -94,7 +90,6 @@ Node.js is an open-source, cross-platform JavaScript runtime environment.
 **6. Asynchronous Programming.**
 
 -   Writing Async Code.
-
     -   Callbacks.
     -   Promises.
     -   Async / Await.
@@ -102,7 +97,6 @@ Node.js is an open-source, cross-platform JavaScript runtime environment.
     -   setInterval.
     -   setImmediate.
     -   `process.nextTick()`.
-
 -   Event Emitter
 -   Event Loop
 
@@ -114,7 +108,6 @@ Node.js is an open-source, cross-platform JavaScript runtime environment.
 -   \_\_dirname.
 -   \_\_filename.
 -   Open Source packages
-
     -   glob
     -   globby
     -   fs-extra
@@ -127,20 +120,15 @@ Node.js is an open-source, cross-platform JavaScript runtime environment.
 -   dotenv package.
 -   `process.env`.
 -   Command Line Args
-
     -   `process.argv`.
     -   Commander.js package.
-
 -   Printing Output
-
     -   `processs.stdout`.
     -   `process.stderr`.
     -   chalk package.
     -   figlet package.
     -   cli-progrss package.
-
 -   Taking Input
-
     -   `process.stdin`.
     -   Prompts package.
     -   Inquirer package.
@@ -148,21 +136,16 @@ Node.js is an open-source, cross-platform JavaScript runtime environment.
 **9. Working With API's.**
 
 -   Http Server
-
     -   Fastify framework
     -   NestJs framework
     -   Express.js framework
     -   http module.
-
 -   Making API Calls
-
     -   http module.
     -   axios package.
     -   unfetch package.
     -   got package.
-
 -   Authentication
-
     -   jsonwebtoken package
     -   Passport.js package
 
@@ -175,15 +158,12 @@ Node.js is an open-source, cross-platform JavaScript runtime environment.
 **11. Working with Databases.**
 
 -   Relational
-
     -   Native Drivers.
     -   Sequelize package.
     -   Prisma package.
     -   TypeORM package.
     -   Knex package.
-
 -   Document
-
     -   Moogoose package.
     -   Prisma package.
     -   Native Drivers.
@@ -218,7 +198,6 @@ Node.js is an open-source, cross-platform JavaScript runtime environment.
 -   Using APM.
 -   `node --inspect`
 -   Memory Leaks
-
     -   Garbage Collection
 
 **18. Common Built-in Modules.**
