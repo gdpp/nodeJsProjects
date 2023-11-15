@@ -1,12 +1,12 @@
 # NODE.JS PROJECTS
 
-![nodejs image](https://philna.sh/assets/posts/node-1305aa9ecfe75c279ce6772534e04dd5999ddd372dcf28ef41c2a9a84b5acdb1.png)
+![nodejs image](https://adrianalonso.es/wp-content/uploads/2014/09/nodejs.png)
 
-This repository contains the combinations of [Complete NodeJS Developer in 2023 (GraphQL, MongoDB, + more)](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/) and [Node: From Zero to Expert](https://www.udemy.com/course/node-de-cero-a-experto/) projects. Also contains a bunch of small projects that i made to practice the topics of NodeJs.
+This repository contains the [Complete NodeJS Developer in 2023 (GraphQL, MongoDB, + more)](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/) projects. Also contains a bunch of small projects that i made to practice the topics of NodeJs.
+
 
 <!--
 ## Node.js Ecosystem
-
 | Section                             | Topics                                         |
 | ----------------------------------- | ---------------------------------------------- |
 | **1.- React Router**                | ReactRouter V6                                 |
