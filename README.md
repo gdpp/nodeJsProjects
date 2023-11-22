@@ -2,7 +2,7 @@
 
 ![nodejs image](https://adrianalonso.es/wp-content/uploads/2014/09/nodejs.png)
 
-This repository contains the [Complete NodeJS Developer in 2023 (GraphQL, MongoDB, + more)](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/) projects. Also contains a bunch of small projects that i made to practice the topics of NodeJs.
+This repository contains the [NodeJS: De cero a experto)](https://www.udemy.com/course/nodejs-de-cero-a-experto/) projects. Also contains a bunch of small projects that i made to practice the topics of NodeJs.
 
 ## Projects
 
