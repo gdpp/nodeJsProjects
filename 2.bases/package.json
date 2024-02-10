@@ -1,0 +1,20 @@
+{
+    "name": "bases",
+    "version": "0.0.1",
+    "description": "first real node app",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node src/app.js",
+        "dev": "nodemon src/app.js"
+    },
+    "author": "Gustavo Perez",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^3.0.2"
+    },
+    "dependencies": {
+        "axios": "^1.6.7",
+        "uuid": "^9.0.1"
+    }
+}
