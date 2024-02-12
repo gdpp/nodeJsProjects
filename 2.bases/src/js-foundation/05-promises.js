@@ -10,3 +10,7 @@ const getPokemonById = async (id) => {
 
     return pokemon.name;
 };
+
+module.export = {
+    getPokemonById,
+};

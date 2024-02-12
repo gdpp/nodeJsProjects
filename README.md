@@ -8,10 +8,10 @@ This repository contains the [NodeJS: De cero a experto)](https://www.udemy.com/
 
 Here's the table of the projects stored in this repo, the projects are organized based on the knowledge of topics required to complete them.
 
-| Name                            | Tier       |
-| ------------------------------- | ---------- |
-| 1. Node Foundations.            | 1-Beginner |
-| 2. Node foundation project .    | 1-Beginner |
+| Name                         | Tier       |
+| ---------------------------- | ---------- |
+| 1. Node Foundations.         | 1-Beginner |
+| 2. Node foundation project . | 1-Beginner |
 
 <!--
 | 9. React Crash Project. | 2-Intermediate |
@@ -27,10 +27,12 @@ Node.js is an open-source, cross-platform JavaScript runtime environment.
 The event loop is a crucial concept in understanding how Node.js handles asynchronous operations. Here's a brief overview of the event loop in Node.js:
 
 1. Event Loop Overview:
+
     - The event loop is a continuous process that allows Node.js to perform non-blocking I/O operations, even though JavaScript in Node.js is single-threaded.
     - It enables Node.js to handle many connections concurrently, without creating a separate thread for each.
 
 2. Phases of the Event Loop:
+
     - **Timers**: This phase executes callbacks scheduled by `setTimeout()` and `setInterval()`.
     - **I/O callbacks**: Executes I/O-related callbacks. This includes callbacks from `fs` module, networking, and others.
     - **Idle, prepare**: Used internally.
@@ -41,18 +43,17 @@ The event loop is a crucial concept in understanding how Node.js handles asynchr
 3. Example:
 
 ```javascript
+const fs = require('fs');
 
-    const fs = require('fs');
+// Asynchronous non-blocking file read
+fs.readFile('example.txt', 'utf8', (err, data) => {
+    if (err) {
+        throw err;
+    }
+    console.log(data);
+});
 
-    // Asynchronous non-blocking file read
-    fs.readFile('example.txt', 'utf8', (err, data) => {
-        if (err) {
-            throw err;
-        }
-        console.log(data);
-    });
-
-    console.log('Reading file...');
+console.log('Reading file...');
 ```
 
 In this example, the `readFile` function initiates a non-blocking file read operation, and the callback function will be called once the file read is complete. Meanwhile, the program can continue to execute other tasks.
@@ -62,11 +63,10 @@ In this example, the `readFile` function initiates a non-blocking file read oper
     - Microtasks are executed after each phase of the event loop.
 
 ```javascript
+setImmediate(() => console.log('setImmediate'));
+process.nextTick(() => console.log('nextTick'));
 
-    setImmediate(() => console.log('setImmediate'));
-    process.nextTick(() => console.log('nextTick'));
-
-    console.log('Main script');
+console.log('Main script');
 ```
 
 In this example, nextTick runs before setImmediate.
@@ -77,11 +77,11 @@ In this example, nextTick runs before setImmediate.
 
 **1. Introduction to Node.js.**
 
--   What is Node.js?
--   Why use Node.js?
--   History of Node.js?
--   Node.js vs Browser.
--   Running Node.js code.
+-   [x] What is Node.js?
+-   [x] Why use Node.js?
+-   [x] History of Node.js?
+-   [x] Node.js vs Browser.
+-   [x] Running Node.js code.
 
 **2. Modules.**
 

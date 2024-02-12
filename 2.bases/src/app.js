@@ -11,6 +11,15 @@
 
 // console.log(john);
 
-const { getPokemonById } = require('./js-foundation/05-promises');
+// const { getPokemonById } = require('./js-foundation/05-promises');
 
-console.log(getPokemonById(1));
+// getPokemonById(23)
+//     .then((pokemon) => console.log({ pokemon }))
+//     .catch((err) => console.error(err))
+//     .finally(() => console.log('End of request'));
+
+const buildLogger = require('./plugins/logger.plugin');
+
+const logger = buildLogger('app.js');
+
+logger.log('Hola mundo');
