@@ -1,21 +1,27 @@
 {
-    "name": "bases",
-    "version": "0.0.1",
-    "description": "first real node app",
-    "main": "app.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node src/app.js",
-        "dev": "nodemon src/app.js"
-    },
-    "author": "Gustavo Perez",
-    "license": "ISC",
-    "devDependencies": {
-        "nodemon": "^3.0.2"
-    },
-    "dependencies": {
-        "axios": "^1.6.7",
-        "uuid": "^9.0.1",
-        "winston": "^3.11.0"
-    }
+  "name": "bases",
+  "version": "0.0.1",
+  "description": "first real node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "Gustavo Perez",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.2",
+    "supertest": "^6.3.4",
+    "ts-jest": "^29.1.2"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "uuid": "^9.0.1",
+    "winston": "^3.11.0"
+  }
 }

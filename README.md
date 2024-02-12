@@ -8,10 +8,11 @@ This repository contains the [NodeJS: De cero a experto)](https://www.udemy.com/
 
 Here's the table of the projects stored in this repo, the projects are organized based on the knowledge of topics required to complete them.
 
-| Name                         | Tier       |
-| ---------------------------- | ---------- |
-| 1. Node Foundations.         | 1-Beginner |
-| 2. Node foundation project . | 1-Beginner |
+| Name                            | Tier       |
+| ------------------------------- | ---------- |
+| 1. Node Foundations.            | 1-Beginner |
+| 2. Node foundation project .    | 1-Beginner |
+| 3. Node and Typescript project. | 1-Beginner |
 
 <!--
 | 9. React Crash Project. | 2-Intermediate |
