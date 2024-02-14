@@ -13,6 +13,7 @@ Here's the table of the projects stored in this repo, the projects are organized
 | 1. Node Foundations.            | 1-Beginner |
 | 2. Node foundation project .    | 1-Beginner |
 | 3. Node and Typescript project. | 1-Beginner |
+| 4. Node Console App             | 1-Beginner |
 
 <!--
 | 9. React Crash Project. | 2-Intermediate |
