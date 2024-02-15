@@ -8,17 +8,14 @@ This repository contains the [NodeJS: De cero a experto)](https://www.udemy.com/
 
 Here's the table of the projects stored in this repo, the projects are organized based on the knowledge of topics required to complete them.
 
-| Name                            | Tier       |
-| ------------------------------- | ---------- |
-| 1. Node Foundations.            | 1-Beginner |
-| 2. Node foundation project .    | 1-Beginner |
-| 3. Node and Typescript project. | 1-Beginner |
-| 4. Node Console App             | 1-Beginner |
-
-<!--
-| 9. React Crash Project. | 2-Intermediate |
-| 10. Heroes App.         | 2-Intermediate |
--->
+| Name                                  | Tier           |
+| ------------------------------------- | -------------- |
+| 1. Node Foundations.                  | 1-Beginner     |
+| 2. Node foundation project .          | 1-Beginner     |
+| 3. Node and Typescript project.       | 1-Beginner     |
+| 4. Console App                        | 1-Beginner     |
+| 5. NOC (Network Operation Center) App | 2-Intermediate |
+| 6. Json Server                        | 2-Intermediate |
 
 ## Node.js Roadmap
 
@@ -95,19 +92,19 @@ In this example, nextTick runs before setImmediate.
 
 **3. NPM.**
 
--   npx.
--   Updating packages.
--   Using Installed packages.
--   Running Scripts.
--   npm Workspaces.
--   Creating packages
-    -   Private packages.
-    -   Public packages.
+-   [x] npx.
+-   [x] Updating packages.
+-   [x] Using Installed packages.
+-   [x] Running Scripts.
+-   [x] npm Workspaces.
+-   [x] Creating packages
+    -   [x] Private packages.
+    -   [x] Public packages.
 
 **4. Keeping Application Running.**
 
--   Nodemon package.
--   `--watch` argument.
+-   [x] Nodemon package.
+-   [x] `--watch` argument.
 
 **5. Error Handling.**
 
@@ -123,16 +120,16 @@ In this example, nextTick runs before setImmediate.
 
 **6. Asynchronous Programming.**
 
--   Writing Async Code.
-    -   Callbacks.
-    -   Promises.
-    -   Async / Await.
-    -   setTimeout.
-    -   setInterval.
-    -   setImmediate.
-    -   `process.nextTick()`.
--   Event Emitter
--   Event Loop
+-   [x] Writing Async Code.
+    -   [x] Callbacks.
+    -   [x] Promises.
+    -   [x] Async / Await.
+    -   [x] setTimeout.
+    -   [x] setInterval.
+    -   [x] setImmediate.
+    -   [x] `process.nextTick()`.
+-   [x] Event Emitter
+-   [x] Event Loop
 
 **7. Working With Files.**
 
