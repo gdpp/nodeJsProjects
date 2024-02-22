@@ -2,3 +2,4 @@
 *.log
 **/logs
 .env
+**/mongo
