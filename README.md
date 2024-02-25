@@ -16,6 +16,7 @@ Here's the table of the projects stored in this repo, the projects are organized
 | 4. Console App                        | 1-Beginner     |
 | 5. NOC (Network Operation Center) App | 2-Intermediate |
 | 6. Json Server                        | 2-Intermediate |
+| 7. REST Server                        | 2-Intermediate |
 
 ## Node.js Roadmap
 
