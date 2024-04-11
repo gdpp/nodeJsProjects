@@ -17,6 +17,8 @@ Here's the table of the projects stored in this repo, the projects are organized
 | 5. NOC (Network Operation Center) App | 2-Intermediate |
 | 6. Json Server                        | 2-Intermediate |
 | 7. REST Server                        | 2-Intermediate |
+| 8. Prisma                             | 2-Intermediate |
+| 9. User Store Server                  | 2-Advanced     |
 
 ## Node.js Roadmap
 
