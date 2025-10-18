@@ -13,23 +13,40 @@ Here's the table of the projects stored in this repo, the projects are organized
 | 1. Node Foundations. | 1-Beginner |
 
 <!--
-| 2. Node foundation project .          | 1-Beginner     |
-| 3. Node and Typescript project.       | 1-Beginner     |
-| 4. Console App                        | 1-Beginner     |
-| 5. NOC (Network Operation Center) App | 2-Intermediate |
-| 6. Json Server                        | 2-Intermediate |
-| 7. REST Server                        | 2-Intermediate |
+| 2. REST Server       | 2-Intermediate |
 | 8. Prisma                             | 2-Intermediate |
 | 9. User Store Server                  | 2-Advanced     |
 -->
 
 ## Node.js Roadmap
 
-Node.js is an open-source, cross-platform JavaScript runtime environment.
+Node.js is an open-source wit V8 google engine, cross-platform JavaScript runtime environment.
+
+### Features
+
+- Asyncronous
+- Third party and native modules
+- Node Package Manager
+- Server building
+- Scalability
+- Multiplatform
+
+### Non-Blocking I/O
+
+Non-Blocking I/O in Node.js means that input/output operations (like reading files, querying a database, or making network requests) don’t stop the execution of the program while waiting for a result.
+
+Instead, Node.js uses an event loop and callbacks/promises to handle these tasks asynchronously — allowing other code to run while the I/O operation finishes in the background.
+
+It's possible by Libuv.
+
+### Blocking
+
+In Node.js, the term “blocking” refers to any operation that stops the event loop from continuing until that operation finishes.
 
 ### Code Execution & Event Loop
 
-The event loop is a crucial concept in understanding how Node.js handles asynchronous operations. Here's a brief overview of the event loop in Node.js:
+[visual guide to nodejs event loop](https://www.builder.io/blog/visual-guide-to-nodejs-event-loop)
+The event loop is a crucial concept in understanding how Node.js handles asynchronous operations. Here's a brief overview of the event loop in Node.js
 
 1. Event Loop Overview:
 

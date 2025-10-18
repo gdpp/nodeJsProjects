@@ -1,0 +1,22 @@
+{
+  "name": "foundations",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "nodejs foundations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "foundations",
+    "javascirpt"
+  ],
+  "author": "gdpp",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
