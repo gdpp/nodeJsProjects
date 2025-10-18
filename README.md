@@ -8,14 +8,14 @@ This repository contains the [NodeJS: De cero a experto)](https://www.udemy.com/
 
 Here's the table of the projects stored in this repo, the projects are organized based on the knowledge of topics required to complete them.
 
-| Name                 | Tier       |
-| -------------------- | ---------- |
-| 1. Node Foundations. | 1-Beginner |
+| Name                 | Tier           |
+| -------------------- | -------------- |
+| 1. Node Foundations. | 1-Beginner     |
+| 2. REST Server       | 2-Intermediate |
 
 <!--
-| 2. REST Server       | 2-Intermediate |
 | 8. Prisma                             | 2-Intermediate |
-| 9. User Store Server                  | 2-Advanced     |
+| 9. User Store Server                  | 3-Advanced     |
 -->
 
 ## Node.js Roadmap
