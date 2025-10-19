@@ -11,12 +11,10 @@ Here's the table of the projects stored in this repo, the projects are organized
 | Name                 | Tier           |
 | -------------------- | -------------- |
 | 1. Node Foundations. | 1-Beginner     |
-| 2. REST Server       | 2-Intermediate |
-
-<!--
-| 8. Prisma                             | 2-Intermediate |
-| 9. User Store Server                  | 3-Advanced     |
--->
+| 2. Express Basics    | 1-Beginner     |
+| 3. Basic REST API    | 1-Beginner     |
+| 4. REST Server       | 2-Intermediate |
+| 5. Auth Store Server | 3-Advanced     |
 
 ## Node.js Roadmap
 
