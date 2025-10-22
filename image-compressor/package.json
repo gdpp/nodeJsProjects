@@ -1,0 +1,21 @@
+{
+  "name": "image-compressor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx --watch src/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "tsx": "^4.20.6"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "sharp": "^0.34.4"
+  }
+}

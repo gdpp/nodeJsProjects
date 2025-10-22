@@ -16,6 +16,7 @@ Here's the table of the projects stored in this repo, the projects are organized
 | 4. Bookstore API     | 1-Beginner     |
 | 5. REST Server       | 2-Intermediate |
 | 6. Auth Store Server | 3-Advanced     |
+| 7. Images Compressor | 3-Advanced     |
 
 ## Node.js Roadmap
 
