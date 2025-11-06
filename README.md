@@ -8,15 +8,16 @@ This repository contains the [NodeJS: De cero a experto)](https://www.udemy.com/
 
 Here's the table of the projects stored in this repo, the projects are organized based on the knowledge of topics required to complete them.
 
-| Name                 | Tier           |
-| -------------------- | -------------- |
-| 1. Node Foundations. | 1-Beginner     |
-| 2. Express Basics    | 1-Beginner     |
-| 3. Basic REST API    | 1-Beginner     |
-| 4. Bookstore API     | 1-Beginner     |
-| 5. REST Server       | 2-Intermediate |
-| 6. Auth Store Server | 3-Advanced     |
-| 7. Images Compressor | 3-Advanced     |
+| Name                   | Tier           |
+| ---------------------- | -------------- |
+| 1. Node Foundations.   | 1-Beginner     |
+| 2. Express Basics      | 1-Beginner     |
+| 3. Basic REST API      | 1-Beginner     |
+| 4. Bookstore API       | 1-Beginner     |
+| 5. REST Server         | 2-Intermediate |
+| 6. Auth/Authori Server | 2-Intermediate |
+| 7. Auth Store Server   | 3-Advanced     |
+| 8. Images Compressor   | 3-Advanced     |
 
 ## Node.js Roadmap
 
