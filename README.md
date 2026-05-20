@@ -19,7 +19,6 @@ Here's the table of the projects stored in this repo, the projects are organized
 | 7. Auth Store Server           | 3-Advanced     |
 | 8. Images Compressor           | 3-Advanced     |
 | 9. Redis                       | 3-Advanced     |
-| 10. Social Media Microservices | 3-Advanced     |
 
 ## Node.js Roadmap
 
